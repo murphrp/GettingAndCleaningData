@@ -2,6 +2,9 @@
 
 The source data can be found here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
+Run the local run_analysis.R script to process and clean the data with R.
+Two output files are created, one with the source data cleaned, and the second with the source data summarized.
+
 The cleanup script run_analysis.R does the following:
 - Merges the training and the test sets to create one data set.
 - Extracts only the measurements on the mean and standard deviation for each measurement.
