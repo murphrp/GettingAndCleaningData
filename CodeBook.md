@@ -10,7 +10,6 @@ The cleanup script run_analysis.R does the following:
 
 
 Script Procedure
--------------------
 1. Read in test and training measurement data sets, X_test.txt and X_train.txt, with the read.table() function.
 2. Read in test and training activity data sets, y_test.txt and y_train.txt, with the read.table() function.
 3. Read in test and training subject data sets, subject_test.txt and subject_train.txt, with the read.table() function.
