@@ -1,4 +1,4 @@
-## Code Book
+# Code Book
 
 
 The cleanup script run_analysis.R does the following:
@@ -9,8 +9,7 @@ The cleanup script run_analysis.R does the following:
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-Script Procedure
-------------------
+### Script Procedure
 
 1. Read in test and training measurement data sets, X_test.txt and X_train.txt, with the read.table() function.
 2. Read in test and training activity data sets, y_test.txt and y_train.txt, with the read.table() function.
